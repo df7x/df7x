@@ -1,0 +1,84 @@
+{
+    "titleNameMap": {
+        "educationList": "教育背景",
+        "workExpList": "工作经历",
+        "projectList": "项目经验",
+        "skillList": "个人技能",
+        "awardList": "更多信息",
+        "workList": "个人作品",
+        "aboutme": "个人评价"
+    },
+    "avatar": {
+        "src": "images/head_photo.png",
+        "hidden": false
+    },
+    "profile": {
+        "name": "刘飞龙",
+        "email": "dongfang7su@qq.com",
+        "mobile": "19523931147",
+        "github": "https://github.com/df7x",
+        "zhihu": "",
+        "workExpYear": "",
+        "workPlace": "惠州市",
+        "positionTitle": "网页制作"
+    },
+    "educationList": [
+        {
+            "edu_time": [
+                "2023.09.01",
+                "2026.06.30"
+            ],
+            "school": "惠州经济职业技术学院",
+            "major": "计算机应用技术",
+            "dataIndex": 0
+        }
+    ],
+    "awardList": [],
+    "workExpList": [],
+    "skillList": [
+        {
+            "skill_name": "HTML与CSS",
+            "skill_level": 80,
+            "skill_desc": "网页结构与样式",
+            "dataIndex": 0
+        },
+        {
+            "skill_name": "JavaScript",
+            "skill_level": 60,
+            "skill_desc": "网页脚本",
+            "dataIndex": 1
+        },
+        {
+            "skill_name": "Java",
+            "skill_level": 60,
+            "skill_desc": "图形界面程序",
+            "dataIndex": 2
+        }
+    ],
+    "projectList": [
+        {
+            "project_name": "SimpleRockets2 Toolkit",
+            "project_role": "总负责人",
+            "project_time": "2022.04 - 2022.05",
+            "project_desc": "SimpleRookets2 Toolkit \n这是一个为SimpleRokcets2游戏制作的多功能工具箱\n使用了Java语言开发",
+            "project_content": "在该项目中主要负责实时编辑UI设计以及实现\n1. 自主设计软件GUI界面\n2. 软件的体验优化，尤其是对电脑小白来说也能轻易上手\n3. 实时性编辑建设：负责将存档文件结构与UI交互相结合。",
+            "dataIndex": 0
+        },
+        {
+            "project_name": "BiliBiliVideoMerge",
+            "project_role": "核心开发者",
+            "project_time": "2023 - 至今",
+            "project_desc": "BiliBiliVideoMerge是一个基于ffmpeg开源项目\n主要功能为将B站缓存后的音视频流合并以及再编码处理",
+            "project_content": "负责实现对缓存文件结构分析，解析提取json文件数据。\n1. 对于大型缓存结构支持多视频的合并和再编码\n2. 基于ffmpeg进行音视频流合并与再次编码以及封装调整\n3. 支持主流视频编码器参数调节",
+            "dataIndex": 1
+        }
+    ],
+    "workList": [],
+    "aboutme": {
+        "aboutme_desc": "在校完成了HTML、CSS、JavaScript以及基础Java图形开发课程的学习。\n具有有一定前端项目开发经历，制作过有图形界面的Java桌面程序\n具有独立跟进和推动项目进度能力"
+    },
+    "theme": {
+        "color": "#2f5785",
+        "tagColor": "#8bc34a"
+    }
+}
